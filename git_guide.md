@@ -46,3 +46,5 @@ but do own it if you end up getting lost and can't find your way home.
 _pull request_  
 this will also ask you to give an overall description of the work you did.
 
+## 7. Contact  
+If anything is wrong with this document, please contact me at mjkoranda@wisc.edu.
